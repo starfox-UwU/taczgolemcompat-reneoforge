@@ -1,6 +1,6 @@
 # TaCZ Golem Compat (1.21.1 NeoForge)
 
-Port of [TaCZGolemCompat](https://github.com/xkmc/TaCZGolemCompat) (1.20.1 Forge) to Minecraft 1.21.1 NeoForge.
+Port of [TaCZGolemCompat](https://github.com/Minecraft-LightLand/TaCZGolemCompat) (1.20.1 Forge) to Minecraft 1.21.1 NeoForge.
 
 Compat layer between TaCZ (Timeless and Classics Zero) and ModularGolems:
 Allows Modular Golems to wield guns from Timeless and Classics Zero.
