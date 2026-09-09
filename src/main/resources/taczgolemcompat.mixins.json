@@ -1,0 +1,17 @@
+{
+	"required": true,
+	"priority": 1000,
+	"package": "dev.xkmc.taczgolemcompat.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"EntityKineticBulletMixin",
+		"EntityUtilMixin",
+		"LivingEntityAmmoCheckMixin"
+	],
+	"client": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"minVersion": "0.8"
+}
