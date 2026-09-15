@@ -41,7 +41,3 @@ gradlew build
 ```
 
 The output jar is `build/libs/taczgolemcompat-1.0.0.jar`.
-
-## Other
-
-百科在审核中，等一下
